@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DicodingJetpackPro</string>
+
+    <string name="date">Release date: %s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score">Score</string>
+    <string name="runtime">Runtime</string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="cast">Cast</string>
+    <string name="rating">$d/10</string>
+
+    <string name="movies">MOVIES</string>
+    <string name="tv_shows">TV SHOWS</string>
+    <string name="minutes">\u0020 minutes</string>
+
+    <string name="insertDB">Successfully Bookmarked %s</string>
+    <string name="deleteDB">Successfully Deleted %s</string>
+
+    <string name="favoriteMovie">Favorite Movies</string>
+    <string name="favoriteShow">Favorite Tv Shows</string>
+    <string name="bookmarked">Bookmarked</string>
+</resources>
